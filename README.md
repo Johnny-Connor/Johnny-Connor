@@ -1,4 +1,8 @@
-[![MasterHead](https://i.imgur.com/whfUJWF.png)](https://github.com/Johnny-Connor)
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=72&duration=2500&pause=2500&color=20C20E&center=true&vCenter=true&width=1000&height=150&lines=Hi%2C+I'm+Johnny-Connor!" alt="Typing SVG" /></a>
+</p>
+
+<!-- [![MasterHead](https://i.imgur.com/whfUJWF.png)](https://github.com/Johnny-Connor) -->
 
 <h3 align="left">Social Media:</h3>
 

@@ -1,17 +1,19 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=72&duration=2500&pause=2500&color=20C20E&center=true&vCenter=true&width=1000&height=150&lines=Hi%2C+I'm+Johnny-Connor!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=72&duration=2500&pause=2500&color=20C20E&center=true&vCenter=true&width=1000&height=150&lines=Welcome+to+my+profile!" alt="Typing SVG" /></a>
 </p>
 
 <!-- [![MasterHead](https://i.imgur.com/whfUJWF.png)](https://github.com/Johnny-Connor) -->
 
-<h3 align="left">Social Media:</h3>
+<h2 align="center">Social Media:</h2>
 
+<p align="center">
 <a href="https://github.com/Johnny-Connor" target="_blank"><img src="https://i.imgur.com/fR3ZWrJ.png" title="GitHub" alt="GitHub" width="40" height="40"/></a>
 <a href="https://johnny-connor.itch.io/" target="_blank"><img src="https://raw.githubusercontent.com/itchio/itch/bbd0a47ae5d6d1d380e32bb19d5b801f967827fc/src/static/images/logos/itchio-textless-pink.svg" title="Itch.io" alt="Itch.io" width="40" height="40"/></a>
+</p>
   
-<h3 align="left">Languages:</h3>
+<h2 align="center">Languages:</h2>
     
-<p align="left">
+<p align="center">
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/></a>
 <a href="https://learn.microsoft.com/en-us/cpp" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/></a>
 <a href="https://learn.microsoft.com/en-us/cpp" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/></a>
@@ -19,9 +21,9 @@
 <a href="https://www.python.org/doc" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/></a>
 </p>
     
-<h3 align="left">Tools:</h3>
+<h2 align="center">Tools:</h2>
 
-<p align="left">
+<p align="center">
   <a href="https://www.audacityteam.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Audacity_Logo.svg" title="Audacity" alt="Audacity" width="40" height="40"/></a>
   <a href="https://www.gimp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gimp/gimp-original.svg" title="GIMP" alt="GIMP" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/></a>

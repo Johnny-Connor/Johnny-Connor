@@ -68,5 +68,6 @@
 </h2>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=Johnny-Connor&count_private=true&show_icons=true&title_color=20C20E&text_color=c9d1d9&icon_color=20C20E&border_color=20C20E&bg_color=0e1a17">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=Johnny-Connor&show_icons=true&count_private=true&title_color=20C20E&text_color=c9d1d9&icon_color=20C20E&border_color=20C20E&bg_color=0e1a17">
+  <img  src = "https://streak-stats.demolab.com/?user=Johnny-Connor&background=0e1a17&border=20C20E&stroke=20C20E&ring=20C20E&fire=20C20E&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=20C20E&sideLabels=20C20E&dates=c9d1d9">
 </p>

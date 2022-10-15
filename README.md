@@ -64,3 +64,7 @@
 <h2 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=750&pause=1500&color=20C20E&center=true&vCenter=true&width=435&height=24&lines=Stats" alt="Typing SVG" /></a>
 </h2>
+
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=Johnny-Connor&count_private=true&show_icons=true&title_color=20C20E&text_color=c9d1d9&icon_color=20C20E&border_color=20C20E&bg_color=0e1a17">
+</p>

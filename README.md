@@ -1,19 +1,26 @@
+<!-- Old Banner -->
+<!-- [![MasterHead](https://i.imgur.com/whfUJWF.png)](https://github.com/Johnny-Connor) -->
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=72&duration=2500&pause=5000&color=20C20E&center=true&vCenter=true&width=1000&height=150&lines=Welcome+to+my+profile!" alt="Typing SVG" /></a>
 </p>
-
-<!-- [![MasterHead](https://i.imgur.com/whfUJWF.png)](https://github.com/Johnny-Connor) -->
-
 
 <!-- About me -->
 <h2 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=550&pause=1100&color=20C20E&center=true&vCenter=true&width=435&height=24&lines=About+me" alt="Typing SVG" /></a>
 </h2>
 
+<p align="center">
+  :coffee: :computer: :umbrella:
+</p>
+
+<p align="justify">
+  A passionate gamer who loves to play and create games :video_game:! My mindset has always been to be open minded, willing to learn :books: and teach :mortar_board: new useful tools and techniques :bulb:, no matter how difficulty they may appear to be at first.
+</p>
 
 <!-- Social Media -->
 <h2 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=500&pause=1000&color=20C20E&center=true&vCenter=true&width=435&height=24&lines=Social+Media" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=800&pause=1600&color=20C20E&center=true&vCenter=true&width=435&height=24&lines=Social+Media" alt="Typing SVG" /></a>
 </h2>
 
 <p align="center">
@@ -23,7 +30,7 @@
 
 <!-- Languages -->
 <h2 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=800&pause=1600&color=20C20E&center=true&vCenter=true&width=435&height=24&lines=Languages" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=500&pause=1000&color=20C20E&center=true&vCenter=true&width=435&height=24&lines=Languages" alt="Typing SVG" /></a>
 </h2>
     
 <p align="center">

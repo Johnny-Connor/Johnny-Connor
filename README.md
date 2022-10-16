@@ -70,5 +70,5 @@
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=Johnny-Connor&show_icons=true&count_private=true&title_color=20c20e&text_color=c9d1d9&icon_color=20c20e&border_color=20c20e&bg_color=0e1a17">
   <img  src = "https://streak-stats.demolab.com/?user=Johnny-Connor&background=0e1a17&border=20c20e&stroke=20c20e&ring=20c20e&fire=20c20e&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=20c20e&sideLabels=20c20e&dates=c9d1d9">
-  <img  src = "https://activity-graph.herokuapp.com/graph?username=Johnny-Connor&bg_color=0e1a17&color=c9d1d9&title_color=20c20e&line=20c20e&point=c9d1d9&area_color=20c20e&area=true">
+  <img  src = "https://activity-graph.herokuapp.com/graph?username=Johnny-Connor&bg_color=0e1a17&color=c9d1d9&title_color=20c20e&line=20c20e&point=20ff0e&area_color=20c20e&area=true">
 </p>

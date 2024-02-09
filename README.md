@@ -49,7 +49,6 @@
   <a href="https://www.diagrams.net/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Diagrams.net_Logo.svg" title="diagrams.net" alt="diagrams.net" width="40" height="40"/></a>
   <a href="https://www.gimp.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" title="GIMP" alt="GIMP" width="40" height="40"/></a>
   <a href="https://git-scm.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/></a>
-  <a href="https://trello.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/></a>
   <a href="https://unity.com">
     <picture title="Unity">
       <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/mSV0SHA.png" alt="Unity" height="40" width="40">

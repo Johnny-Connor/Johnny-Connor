@@ -22,8 +22,8 @@ A professional indie developer who loves solving problems!
 </h2>
 
 <p align="center">
-<a href="https://github.com/Johnny-Connor"><img src="https://i.imgur.com/fR3ZWrJ.png" title="GitHub" alt="GitHub" width="40" height="40"/></a>
 <a href="https://johnny-connor.itch.io/"><img src="https://raw.githubusercontent.com/itchio/itch/master/src/static/images/logos/itchio-textless-pink.svg" title="Itch.io" alt="Itch.io" width="40" height="40"/></a>
+<a href="https://www.youtube.com/@WinosDev"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" title="YouTube" alt="YouTube" width="40" height="40" style="vertical-align: middle"/></a>
 </p>
 
 <br/>
